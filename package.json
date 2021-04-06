@@ -29,7 +29,7 @@
     "@angular/core": "~9.0.1",
     "@angular/fire": "^5.4.2",
     "@angular/forms": "~9.0.1",
-    "@angular/material": "^9.0.0",
+    "@angular/material": "^11.0.0",
     "@angular/platform-browser": "~9.0.1",
     "@angular/platform-browser-dynamic": "~9.0.1",
     "@angular/platform-server": "~9.0.1",
